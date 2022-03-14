@@ -8,3 +8,4 @@ first_half_of_x = '1237'[0:2]
 print(f'first half of str_x is {first_half_of_x}')
 reverse_first_half_of_x = first_half_of_x[::-1]
 print(f'reverse of first half of str_x is {reverse_first_half_of_x}')
+print("is palindrome ")
