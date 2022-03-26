@@ -1,4 +1,10 @@
+# dependencies
 env
+node_modules
+
+# compiled files
 __pycache__
+
+# editor files
 Session.vim
 .vscode
